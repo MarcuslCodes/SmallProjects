@@ -7,7 +7,7 @@ print("Hi there!\n"
       "You can choose between five different currencies:\n"
       "AUD - the Australian dollar\n"
       "USD - the American dollar\n"
-      "EUR - the European currency\n"
+      "EUR - the Euro\n"
       "GBP - the British pound\n"
       "DKK - the Danish krone\n")
 
